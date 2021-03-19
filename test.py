@@ -4,3 +4,4 @@ if __name__ == "__main__":
     print("Nowy update")
     print("Another one")
     print("Once more")
+    print("EE")
