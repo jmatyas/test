@@ -5,3 +5,4 @@ if __name__ == "__main__":
     print("Another one")
     print("Once more")
     print("EE")
+    print("A")
