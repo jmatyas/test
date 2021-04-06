@@ -6,3 +6,4 @@ if __name__ == "__main__":
     print("Once more")
     print("EE")
     print("A")
+    print("Test 6.06")
